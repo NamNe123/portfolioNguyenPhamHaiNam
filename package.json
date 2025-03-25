@@ -1,4 +1,5 @@
 {
+  "homepage": "https://NamNe123.github.io/portfolio-nguyen-nam/",
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
@@ -6,6 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
