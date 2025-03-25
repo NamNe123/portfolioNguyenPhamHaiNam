@@ -11,15 +11,25 @@ import {
   redux,
   tailwind,
   nodejs,
+  csharp,
+  github1,
+  wordpress,
   mongodb,
   git,
   figma,
   docker,
   meta,
   starbucks,
-  tesla,
+  trithuc,
+  asoft,
+  freelancer,
   shopify,
-  carrent,
+  BanDanToc,
+  SoCongThuong,
+  KeyPremium,
+  ViecLamHG,
+  SignInSys,
+  Pm4,
   jobit,
   tripguide,
   threejs,
@@ -27,16 +37,20 @@ import {
 
 export const navLinks = [
   {
-    id: "about",
-    title: "About",
+    id: "vetoi",
+    title: "Về tôi",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "congviec",
+    title: "Công Việc",
   },
   {
-    id: "contact",
-    title: "Contact",
+    id: "duan",
+    title: "Dự án",
+  },
+  {
+    id: "lienhe",
+    title: "Liên hệ",
   },
 ];
 
@@ -85,6 +99,18 @@ const technologies = [
     icon: reactjs,
   },
   {
+    name: "C#",
+    icon: csharp,
+  },
+  {
+    name: "Word Press",
+    icon: wordpress,
+  },
+  {
+    name: "git hub",
+    icon: github1,
+  },
+  {
     name: "git",
     icon: git,
   },
@@ -94,8 +120,8 @@ const experiences = [
   {
     title: "Full-Stack Developer",
     company_name: "Công ty cổ phần ASOFT",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: asoft,
+    iconBg: "#E6DEDD",
     date: "03/2025 - nay",
     points: [
       "Phát triển và duy trì các website và phần mềm máy tính bằng .NET Core, đảm bảo hiệu suất cao và trải nghiệm người dùng mượt mà.",
@@ -107,7 +133,7 @@ const experiences = [
   {
     title: "Freelancer",
     company_name: "",
-    icon: tesla,
+    icon: freelancer,
     iconBg: "#E6DEDD",
     date: "05/2024 - 03/2025",
     points: [
@@ -122,7 +148,7 @@ const experiences = [
   {
     title: "Full-Stack Developer",
     company_name: "Công ty cổ phần tin học Tri Thức",
-    icon: meta,
+    icon: trithuc,
     iconBg: "#E6DEDD",
     date: "05/2023 - 05/2024",
     points: [
@@ -181,7 +207,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: BanDanToc,
     source_code_link: "https://github.com/",
   },
   {
@@ -202,7 +228,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: SoCongThuong,
     source_code_link: "https://github.com/",
   },
   {
@@ -223,7 +249,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: ViecLamHG,
     source_code_link: "https://github.com/",
   },
   {
@@ -240,7 +266,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: SignInSys,
     source_code_link: "https://github.com/",
   },
   {
@@ -253,7 +279,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: Pm4,
     source_code_link: "https://github.com/",
   },
   {
@@ -266,7 +292,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: KeyPremium,
     source_code_link: "https://github.com/",
   },
 ];
