@@ -28,6 +28,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import trithuc from "./company/trithuc.jpg";
+import muiten from "./company/muiten.jpg";
 import freelancer from "./company/freelancer.jpg";
 import asoft from "./company/asoft.jpg";
 
@@ -69,6 +70,7 @@ export {
   shopify,
   starbucks,
   trithuc,
+  muiten,
   asoft,
   freelancer,
   BanDanToc,

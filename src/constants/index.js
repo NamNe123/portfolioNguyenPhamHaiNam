@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Công ty cổ phần ASOFT",
     icon: asoft,
     iconBg: "#E6DEDD",
-    date: "03/2025 - nay",
+    date: "02/2025 - nay",
     points: [
       "Phát triển và duy trì các website và phần mềm máy tính bằng .NET Core, đảm bảo hiệu suất cao và trải nghiệm người dùng mượt mà.",
       "Hợp tác chặt chẽ với các nhóm chức năng chéo, bao gồm nhà thiết kế, quản lý sản phẩm và các nhà phát triển khác, để xây dựng và tối ưu hóa sản phẩm theo yêu cầu khách hàng.",
@@ -135,7 +135,7 @@ const experiences = [
     company_name: "",
     icon: freelancer,
     iconBg: "#E6DEDD",
-    date: "05/2024 - 03/2025",
+    date: "05/2024 - 02/2025",
     points: [
       "Xác định yêu cầu & lên kế hoạch.",
       "Thiết kế giao diện người dùng (UI/UX).",
@@ -208,7 +208,7 @@ const projects = [
       },
     ],
     image: BanDanToc,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://htcsdldt.daknong.gov.vn/",
   },
   {
     name: "Phần mềm quản lý ngành Công Thương Cà Mau",
@@ -229,7 +229,7 @@ const projects = [
       },
     ],
     image: SoCongThuong,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://csdlcongthuong.camau.gov.vn/",
   },
   {
     name: "Phần mềm quản lý việc làm Hậu Giang",
@@ -250,7 +250,7 @@ const projects = [
       },
     ],
     image: ViecLamHG,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://vieclam.haugiang.gov.vn/",
   },
   {
     name: "Phần mềm Sign-in system ",
@@ -267,7 +267,7 @@ const projects = [
       },
     ],
     image: SignInSys,
-    source_code_link: "https://github.com/",
+    source_code_link: "#",
   },
   {
     name: "Phần mềm quản lý đánh thẻ điểm danh PM4 ",
@@ -280,7 +280,7 @@ const projects = [
       },
     ],
     image: Pm4,
-    source_code_link: "https://github.com/",
+    source_code_link: "#",
   },
   {
     name: "Key Premium Shop - Tài khoản chính hãng ",
@@ -293,7 +293,7 @@ const projects = [
       },
     ],
     image: KeyPremium,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://keypremiumshop.com/",
   },
 ];
 

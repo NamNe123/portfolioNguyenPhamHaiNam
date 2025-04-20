@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Tôi Là một Full-Stack .NET Developer  <br className='sm:block hidden' />
-            Một lập trình viên giàu kinh nghiệm, đã tham gia phát triển nhiều dự án thực tế
+            Đã góp mặt trong nhiều dự án thực tế, mang lại giải pháp hiệu quả.
           </p>
         </div>
       </div>
